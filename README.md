@@ -15,7 +15,7 @@ Student Developer • Java • Python • Web
 🎓 Student Developer  
 💻 Learning Python, Java & SQL  
 🌐 Exploring Web Development  
-🚀 Building projects and improving my skills  
+🚀 improving skills  
 💻 Gamer!
 🚀 Game developing.
 
