@@ -48,7 +48,7 @@ Student Developer • Java • Python • Web
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mithrithik3027&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=officiallyhrithik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
