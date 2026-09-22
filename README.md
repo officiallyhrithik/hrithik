@@ -53,7 +53,7 @@ Student Developer • Java • Python • Web
 
 ---
 
-## 🎯 2026 Goals
+## 🎯
 
 - [ ] 🐍 Improve Python
 - [ ] ☕ Improve Java
